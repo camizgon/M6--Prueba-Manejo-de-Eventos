@@ -65,10 +65,10 @@ button {
     background-color: #696666;
     color: #000;
     cursor: pointer;
-    margin-top: 10px;
+    margin-left: 125px;
 }
 
 button:hover {
-    background-color: #ff1a1a;
+    background-color: #482ab6;
 }
 </style>
